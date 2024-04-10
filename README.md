@@ -4,8 +4,8 @@ This is a simple API that returns a welcome message.
 
 ## Run your local environment
 
-### Clone the repository
-```bash
+### Clone the repository ####
+```bash  
 git clone https://github.com/edgaregonzalez/nodejs-helloworld-api.git
 ```
 
